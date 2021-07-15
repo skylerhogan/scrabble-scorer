@@ -18,4 +18,10 @@ The program should have three scoring algorithms and allow the user to pick whic
 4) Create a scoringAlgorithms array to hold three scoring objects. Each object will contain three key/value pairs.
 5) Create a runProgram function to serve as the starting point for your program.
 
+## Bonus Missions
+
+Currently, the prompts accept ANY input values. The user could enter something other than 0, 1, or 2 when selecting the scoring algorithm, and they could enter numbers or symbols when asked for a word. Modify your code to reject invalid inputs and then re-prompt the user for the correct information.
+Score words spelled with blank tiles by adding ' ' to the newPointStructure object. The point value for a blank tile is 0.
+
+
 https://replit.com/@skylerhogan/scrabble-scorer
