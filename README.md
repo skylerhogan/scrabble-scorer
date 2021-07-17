@@ -1,7 +1,6 @@
-<img width="582" alt="Screen Shot 2021-07-15 at 6 40 34 PM" src="https://user-images.githubusercontent.com/79928899/125871144-90c8d23a-02e2-47b8-82e4-d2db94b82395.png">
-
 # Scrabble Scorer
 
+<p align="center"><img width="582" alt="Screen Shot 2021-07-15 at 6 40 34 PM" src="https://user-images.githubusercontent.com/79928899/125871144-90c8d23a-02e2-47b8-82e4-d2db94b82395.png"></p>
 This was a program that I completed early on in my studies as a part of LC101. I've included some details below as well as a link to the repl.it where you can try it out.
 
 ## The Problem
